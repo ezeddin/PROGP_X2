@@ -1,0 +1,11 @@
+COBOL:
+Meditera rad 18 för att välja n
+-> cobc -free -x -o x2-exe x2.cbl
+
+Smaltalk:
+Editera rad 34 i källkoden för att byte n.
+-> gst 13-smaltalk.st
+Erlang:
+-> erl
+-> c(bernoulli).
+-> bernoulli:berno(4).

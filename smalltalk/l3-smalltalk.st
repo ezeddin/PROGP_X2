@@ -31,5 +31,5 @@ Math class extend [
   ]
 ]
 
-result := Math bernoulli: 100.
+result := Math bernoulli: 4.
 result printNl.
